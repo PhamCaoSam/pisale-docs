@@ -2,7 +2,7 @@
 
 ## Thêm mới đặc tính
 
-Nhấn chọn **Nội dung -> Nhóm và danh mục -> Đặc tính**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
+Nhấn chọn **Nội dung -> Nhóm và danh mục -> Đặc tính sản phẩm -> Đặc tính**. Nhấn chọn nút **Thêm** để thêm mới 1 mục.
 
 Những thông tin cụ thể cần điền như sau:
 
