@@ -106,11 +106,11 @@ _Các trường tùy chọn cần nhập nội dung như sau:_
 - **Thêm mục tùy chọn**: nhân chọn thêm để thêm nhiều tùy chọn khác nhau
 
 **Khuyến mại**
+- **Thêm Giá khuyến mại**: Nhấn chọn để thêm nhiều khuyến mãi theo từng mốc thời gian
 - **Ưu tiên**: Điền số thứ tự cho từng mốc khuyến mại
 - **Giá bán**: Điền giá khuyến mại
 - **Từ ngày**: Chọn ngày bắt đầu khuyến mại
 - **Đến ngày**: Chọn ngày kết thúc khuyến mại
-- **Thêm Giá khuyến mại**: Nhấn chọn để thêm nhiều khuyến mãi theo từng mốc thời gian
 
 **Đặc tính sản phẩm**
 
