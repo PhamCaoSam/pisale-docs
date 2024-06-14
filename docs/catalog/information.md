@@ -16,7 +16,7 @@ Những thông tin cụ thể cần điền như sau:
 
 Nhập tiêu đề cho bài thông tin
 
-**Phụ đề**
+**Mô tả ngắn**
 
 Được hiển thị dưới tên tiêu đề bài thông tin. Phụ thuộc vào từng giao diện sẽ có phụ đề hay không có phụ đề.
 
@@ -28,7 +28,7 @@ Trình bày thông tin có mục đích hướng tới độc giả
 
 Nhấp chọn ảnh để lựa chọn tập tin hình ảnh bài thông tin và tải lên
 
-**Kiểu trình bày**
+**Mẫu trình bày**
 
 Lựa chọn kiểu trình bày tại danh sách thả xuống
 
